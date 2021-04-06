@@ -1,0 +1,38 @@
+[
+    {
+        "coffeid": 1,
+        "Type": "Bryggkaffe",
+        "price": "49",
+        "days":"brygga på månadens bönor"
+    },
+    {
+        "coffeid": 2,
+        "Type": "Caffè Doppio",
+        "price": "49",
+        "days":"brygga på månadens bönor"
+    },
+    {
+        "coffeid": 3,
+        "Type": "Cappuccino",
+        "price": "49",
+        "days":"brygga på månadens bönor"
+    },
+    {
+        "coffeid": 4,
+        "Type": "Latte Macchiato",
+        "price": "49",
+        "days":"brygga på månadens bönor"
+    },
+    {
+        "coffeid": 5,
+        "Type": "Kaffe Latte",
+        "price": "49",
+        "days":"brygga på månadens bönor"
+    },
+    {
+        "coffeid": 6,
+        "Type": "Cortado",
+        "price": "39",
+        "days":"brygga på månadens bönor"
+    }
+]
