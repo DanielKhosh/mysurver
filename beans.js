@@ -1,5 +1,5 @@
 const { Router } = require('express');
-const beansrouter = new Router();
+const router = new Router();
 const fs = require('fs');
 
 Router.get('/', (req, res) => {
